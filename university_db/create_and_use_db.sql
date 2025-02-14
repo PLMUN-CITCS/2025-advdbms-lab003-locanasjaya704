@@ -1,1 +1,1 @@
-create_and_use_db.sql
+CREATE DATABASE `UniversityDB`;
